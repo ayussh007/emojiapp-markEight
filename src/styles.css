@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  padding: 1rem;
+  width: 70%;
+  background-color: rgb(201, 221, 230);
+  color: black;
+}
+
+.main {
+  color: blue;
+}
+
+.subheading {
+  text-decoration: underline;
+  font-size: x-large;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: grey;
+}
